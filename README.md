@@ -38,6 +38,7 @@ Build Tool: Maven
 ## Project Structure
 
 src/main/java/com/codeWithHimanshu/studentmgmt
+
 ├── controller
 
 ├── entity
