@@ -7,6 +7,7 @@ This application performs full CRUD (Create, Read, Update, Delete) operations fo
 ---
 
 ✨ Features
+
 Full CRUD Functionality: Create, Read, Update, and Delete student records.
 
 Clean & Responsive UI: Modern user interface built with Bootstrap 5.
@@ -38,10 +39,15 @@ Build Tool: Maven
 
 src/main/java/com/codeWithHimanshu/studentmgmt
 ├── controller
+
 ├── entity
+
 ├── repository
+
 ├── service
+
 ├── dto (optional)
+
 └── StudentManagementApplication.java
 
 ---
@@ -56,7 +62,9 @@ src/main/java/com/codeWithHimanshu/studentmgmt
 
 ---
 
-Access the application: Open your web browser and navigate to http://localhost:8080
+Access the application:
+
+Open your web browser and navigate to http://localhost:8080
 
 ---
 
@@ -67,7 +75,9 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 ---
 
 ## Author
+
 Himanshu Vishwakarma
+
 Email: iamcoolhimanshu.9636@gmail.com
 
 
