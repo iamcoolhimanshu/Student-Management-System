@@ -1,4 +1,4 @@
-Student Management System (Spring Boot & Thymeleaf) -
+🧑‍🎓  STUDENT MANAGEMENT SYSTEM ---
 
 A complete, full-stack Student Management System built using Spring Boot for the backend, Thymeleaf for server-side templating, and Bootstrap 5 for a clean, responsive UI.
 
@@ -19,6 +19,7 @@ Dynamic Templating: Leverages Thymeleaf to dynamically render data on the server
 
 
 🛠️ Tech Stack
+
 Backend: Java, Spring Boot (Spring Web, Spring Data JPA)
 
 Frontend / Templating: Thymeleaf
