@@ -19,7 +19,7 @@ Dynamic Templating: Leverages Thymeleaf to dynamically render data on the server
 
 
 🛠️ Tech Stack
-Backend: Spring Boot (Spring Web, Spring Data JPA)
+Backend: Java, Spring Boot (Spring Web, Spring Data JPA)
 
 Frontend / Templating: Thymeleaf
 
@@ -33,23 +33,40 @@ Build Tool: Maven
 
 ---
 
+## Project Structure
+
+src/main/java/com/codeWithHimanshu/studentmgmt
+├── controller
+├── entity
+├── repository
+├── service
+├── dto (optional)
+└── StudentManagementApplication.java
+
+---
+
 📸 Screenshots
 
 <img width="1912" height="640" alt="image" src="https://github.com/user-attachments/assets/ad7118f2-849d-4a13-915a-c551b3300480" />
 
 ---
 
-
 <img width="1908" height="818" alt="image" src="https://github.com/user-attachments/assets/a4734cbc-69e9-431f-8ecc-6b7b67482b7e" />
-
 
 ---
 
 Access the application: Open your web browser and navigate to http://localhost:8080
 
-🕹️ Usage / Endpoints
-View All Students: http://localhost:8080/students
+---
 
-Show "Add Student" Form: http://localhost:8080/students/new
+## Contribution
 
-Show "Edit Student" Form: http://localhost:8080/students/edit/{studentId}
+Pull requests are welcome. For major changes, open an issue first to discuss what you want to change.
+
+---
+
+## Author
+Himanshu Vishwakarma
+Email: iamcoolhimanshu.9636@gmail.com
+
+
