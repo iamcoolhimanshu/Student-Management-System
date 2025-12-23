@@ -79,6 +79,10 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 Himanshu Vishwakarma
 
-Email: iamcoolhimanshu.9636@gmail.com
+📧 Email: iamcoolhimanshu.9636@gmail.com
+
+---
+
+⭐ If you like this project, please give it a star!
 
 
