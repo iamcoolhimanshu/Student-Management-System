@@ -61,6 +61,12 @@
 ---
 <img width="1908" height="818" alt="image" src="https://github.com/user-attachments/assets/a4734cbc-69e9-431f-8ecc-6b7b67482b7e" />
 
---
 
-<h3 align="center">👨‍💻 Developed with ❤️ by Himanshu</h3> <p align="center"> ⭐ Star this repo if you like it! </p> ```
+<p align="center">
+  <b>👨‍💻 Developed with ❤️ by Himanshu</b>
+</p>
+
+<p align="center">
+  ⭐ If you like this project, please consider giving it a <b>star</b>!
+</p>
+
