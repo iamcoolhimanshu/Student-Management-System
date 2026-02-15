@@ -1,55 +1,56 @@
-🧑‍🎓  STUDENT MANAGEMENT SYSTEM ---
+<h1 align="center">🎓 Student Management System</h1>
 
-A complete, full-stack Student Management System built using Spring Boot for the backend, Thymeleaf for server-side templating, and Bootstrap 5 for a clean, responsive UI.
+<p align="center">
+  <b>A Full-Stack CRUD Web Application built with Spring Boot, Thymeleaf & Bootstrap 5</b><br/>
+  <i>Clean • Responsive • Validated • Production-Ready</i>
+</p>
 
-This application performs full CRUD (Create, Read, Update, Delete) operations for student records and includes server-side validation to ensure data integrity.
-
----
-
-✨ Features
-
-Full CRUD Functionality: Create, Read, Update, and Delete student records.
-
-Clean & Responsive UI: Modern user interface built with Bootstrap 5.
-
-Server-Side Validation: Uses Spring Boot validation (Hibernate Validator) to ensure data integrity (e.g., non-empty fields, valid email formats).
-
-Dynamic Templating: Leverages Thymeleaf to dynamically render data on the server.
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-success?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Frontend-Thymeleaf-blue?style=for-the-badge&logo=thymeleaf"/>
+  <img src="https://img.shields.io/badge/UI-Bootstrap%205-purple?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/Database-MySQL%20%2F%20H2-orange?style=for-the-badge&logo=mysql"/>
+</p>
 
 ---
 
+## ✨ Overview
 
-🛠️ Tech Stack
-
-Backend: Java, Spring Boot (Spring Web, Spring Data JPA)
-
-Frontend / Templating: Thymeleaf
-
-Styling: Bootstrap 5
-
-Database: MySQL
-
-Validation: Spring Boot Validation
-
-Build Tool: Maven
+> A complete **Student Management System** that allows you to manage student records with full **CRUD operations** and robust **server-side validation**.  
+> Built using modern **Spring Boot MVC architecture** with elegant UI powered by **Bootstrap 5**.
 
 ---
 
-## Project Structure
+## 🌟 Key Features
 
-src/main/java/com/codeWithHimanshu/studentmgmt
+```diff
++ Create new student records
++ View all students in a responsive table
++ Update student information seamlessly
++ Delete student entries with confirmation
++ Server-side validation for clean & secure data
++ Responsive and modern UI using Bootstrap 5
++ Thymeleaf integration for dynamic rendering
 
-├── controller
-
-├── entity
-
-├── repository
-
-├── service
-
-├── dto (optional)
-
-└── StudentManagementApplication.java
+---
+📦 student-management-system
+ ┣ 📂 controller
+ ┃ ┗ 📜 StudentController.java
+ ┣ 📂 entity
+ ┃ ┗ 📜 Student.java
+ ┣ 📂 repository
+ ┃ ┗ 📜 StudentRepository.java
+ ┣ 📂 service
+ ┃ ┣ 📜 StudentService.java
+ ┃ ┗ 📜 StudentServiceImpl.java
+ ┣ 📂 templates
+ ┃ ┣ 📜 students.html
+ ┃ ┣ 📜 create_student.html
+ ┃ ┗ 📜 edit_student.html
+ ┣ 📂 static
+ ┃ ┗ 📂 css / js
+ ┣ 📜 application.properties
+ ┗ 📜 pom.xml
 
 ---
 
@@ -58,31 +59,8 @@ src/main/java/com/codeWithHimanshu/studentmgmt
 <img width="1912" height="640" alt="image" src="https://github.com/user-attachments/assets/ad7118f2-849d-4a13-915a-c551b3300480" />
 
 ---
-
 <img width="1908" height="818" alt="image" src="https://github.com/user-attachments/assets/a4734cbc-69e9-431f-8ecc-6b7b67482b7e" />
 
----
+--
 
-Access the application:
-
-Open your web browser and navigate to http://localhost:8080
-
----
-
-## Contribution
-
-Pull requests are welcome. For major changes, open an issue first to discuss what you want to change.
-
----
-
-## Author
-
-Himanshu Vishwakarma
-
-📧 Email: iamcoolhimanshu.9636@gmail.com
-
----
-
-⭐ If you like this project, please give it a star!
-
-
+<h3 align="center">👨‍💻 Developed with ❤️ by Himanshu</h3> <p align="center"> ⭐ Star this repo if you like it! </p> ```
