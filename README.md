@@ -32,32 +32,37 @@
 + Responsive and modern UI using Bootstrap 5
 + Thymeleaf integration for dynamic rendering
 
----
-📦 student-management-system
- ┣ 📂 controller
- ┃ ┗ 📜 StudentController.java
- ┣ 📂 entity
- ┃ ┗ 📜 Student.java
- ┣ 📂 repository
- ┃ ┗ 📜 StudentRepository.java
- ┣ 📂 service
- ┃ ┣ 📜 StudentService.java
- ┃ ┗ 📜 StudentServiceImpl.java
- ┣ 📂 templates
- ┃ ┣ 📜 students.html
- ┃ ┣ 📜 create_student.html
- ┃ ┗ 📜 edit_student.html
- ┣ 📂 static
- ┃ ┗ 📂 css / js
- ┣ 📜 application.properties
- ┗ 📜 pom.xml
+```
 
----
+student-management-system
+│── src/main/java/com/example/sms
+│   ├── controller
+│   │     └── StudentController.java
+│   ├── entity
+│   │     └── Student.java
+│   ├── repository
+│   │     └── StudentRepository.java
+│   ├── service
+│   │     ├── StudentService.java
+│   │     └── StudentServiceImpl.java
+│   └── StudentManagementSystemApplication.java
+│
+│── src/main/resources
+│   ├── templates
+│   │     ├── students.html
+│   │     ├── create_student.html
+│   │     └── edit_student.html
+│   ├── static
+│   │     └── css / js
+│   └── application.properties
+│
+└── pom.xml
+
+ ---
 
 📸 Screenshots
 
 <img width="1912" height="640" alt="image" src="https://github.com/user-attachments/assets/ad7118f2-849d-4a13-915a-c551b3300480" />
-
 ---
 <img width="1908" height="818" alt="image" src="https://github.com/user-attachments/assets/a4734cbc-69e9-431f-8ecc-6b7b67482b7e" />
 
