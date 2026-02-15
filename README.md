@@ -34,32 +34,6 @@
 
 ```
 
-student-management-system
-│── src/main/java/com/example/sms
-│   ├── controller
-│   │     └── StudentController.java
-│   ├── entity
-│   │     └── Student.java
-│   ├── repository
-│   │     └── StudentRepository.java
-│   ├── service
-│   │     ├── StudentService.java
-│   │     └── StudentServiceImpl.java
-│   └── StudentManagementSystemApplication.java
-│
-│── src/main/resources
-│   ├── templates
-│   │     ├── students.html
-│   │     ├── create_student.html
-│   │     └── edit_student.html
-│   ├── static
-│   │     └── css / js
-│   └── application.properties
-│
-└── pom.xml
-
- ---
-
 📸 Screenshots
 
 <img width="1912" height="640" alt="image" src="https://github.com/user-attachments/assets/ad7118f2-849d-4a13-915a-c551b3300480" />
